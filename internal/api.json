@@ -1,0 +1,11 @@
+{
+   "Stuff": "things",
+    "An Array of Stuffs": [
+        {
+            "Thang1": "A Thang"
+        },
+        {
+            "Thang2": "Another Thang"
+        }
+    ]
+}
